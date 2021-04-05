@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
-class Solution{
-    public static void main(String []argh)
+public class Solution{
+    public static void main(String []args)
     {
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
